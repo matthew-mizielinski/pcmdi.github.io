@@ -9,7 +9,7 @@ group: "navigation"
 Name | Position 
 --- | --- 
 . | Program Director 
-[Ahn, Min-Seop][ahn] | Post-doc 
+[Ahn, Min-Seop][ahn] | Postdoctoral Researcher
 [Ames, Sasha][ames] | Computer Scientist 
 [Bonfils, Celine][bonfils] | Research Scientist 
 [Caldwell, Peter][caldwell] | Research Scientist 
