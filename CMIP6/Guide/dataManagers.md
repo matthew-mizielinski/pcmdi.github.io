@@ -146,17 +146,10 @@ To replicate data an ESGF node needs to follow the [requirements for a Tier 1 ES
 
 ## 16. Regularly remove unpublished replicated data (Tier 1 only)
 
-Where data is being replicated from other nodes regular checks need to be performed to remove data that has been unpublished by primary nodes.
-To remove unpublished replica datasets from local holdings follow the procedure below
+Where data is being replicated from other nodes regular checks, ideally at least every two weeks, need to be performed to remove data that has been unpublished by primary nodes.
+To obtain guidance on how to automatically identify and unpublish retracted datasets within a replicated archive please contact the [CDNOT](https://github.com/ESGF/CDNOT)
 
-1. ...
-2. ...
-3. ...
-
-
-
-
-###### Document version: 29 January 2020
+###### Document version: July 2021
 
 
 [guide]: index.html
