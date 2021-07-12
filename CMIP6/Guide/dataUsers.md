@@ -130,12 +130,12 @@ Information is under preparation describing the governance of the following:
 [activityIdJson]: https://github.com/WCRP-CMIP/CMIP6_CVs/blob/master/CMIP6_activity_id.json
 [experimentIdJson]: https://github.com/WCRP-CMIP/CMIP6_CVs/blob/master/CMIP6_experiment_id.json
 [experimentIdhtml]: http://rawgit.com/WCRP-CMIP/CMIP6_CVs/master/src/CMIP6_experiment_id.html
-[cmip6DataRequestCog]: https://www.earthsystemcog.org/projects/wip/CMIP6DataRequest
+[cmip6DataRequestCog]: https://cmip6dr.github.io/Data_Request_Home/
 [cfConventionsPage]: http://cfconventions.org/
 [cmip6GlobalAttGoogleDoc]: http://goo.gl/v1drZl
 [cmip6GridGoogleDoc]: http://goo.gl/1oA7bO
-[cmip6PressureLevelsPdf]: https://www.earthsystemcog.org/site_media/projects/wip/CMIP6_pressure_levels.pdf
-[cmip6TimeAveragesCog]: https://www.earthsystemcog.org/projects/wip/time_averages
+[cmip6PressureLevelsPdf]: https://cmip6dr.github.io/Data_Request_Home/Documents/CMIP6_pressure_levels.pdf
+[cmip6TimeAveragesCog]: LOST_LOST_LOST
 [datacitecat]: https://search.datacite.org/works?query=prefix:10.22033
 [dataHoldings]: https://pcmdi.llnl.gov/CMIP6/ArchiveStatistics/esgf_data_holdings
 [esgfSearchRequirementsGoogleDoc]: https://docs.google.com/document/d/1jNBw2am28Hxux_YuCL_mYMi18EEGkJSGrtNntOs3PJo
@@ -155,8 +155,8 @@ Information is under preparation describing the governance of the following:
 [ESGFUsersList]: esgf-user@lists.llnl.gov
 [wgcmSite]: https://www.wcrp-climate.org/wgcm-overview
 [wgcmCmip6]: https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6
-[wipCog]: https://www.earthsystemcog.org/projects/wip
-[wipMission]: https://www.earthsystemcog.org/projects/wip/aboutus/
+[wipCog]: https://wcrp-cmip.github.io/WGCM_Infrastructure_Panel/
+[wipMission]: LOST_LOST_LOST
 [cdnotGoogleDoc]: https://docs.google.com/document/d/1oRWqxtWWEfsucTVhk0G3bMqHC0BL4dJwADrOG8Ukj-g
 [obs4mipsCog]: https://esgf-node.llnl.gov/projects/obs4mips/
 [CMIP6Citation]: http://cmip6cite.wdc-climate.de
