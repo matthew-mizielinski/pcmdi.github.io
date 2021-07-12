@@ -140,6 +140,22 @@ This section describes the step you need to take to publish a new version of a C
 4. [Generate new mapfiles](http://esgf.github.io/esgf-prepare/mapfiles.html)
 5. [Follow publication workflow a usual](#10-preparing-directory-structure-and-files-organization-to-fulfill-cmip6)
 
+## 15. Replicating data from other ESGF nodes (Tier 1 only)
+
+To replicate data an ESGF node needs to follow the [requirements for a Tier 1 ESGF node ](https://esgf.llnl.gov/esgf-media/pdf/ESGFTier1and2NodeSiteRequirement-V5.pdf).
+
+## 16. Regularly remove unpublished replicated data (Tier 1 only)
+
+Where data is being replicated from other nodes regular checks need to be performed to remove data that has been unpublished by primary nodes.
+To remove unpublished replica datasets from local holdings follow the procedure below
+
+1. ...
+2. ...
+3. ...
+
+
+
+
 ###### Document version: 29 January 2020
 
 
